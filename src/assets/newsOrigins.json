@@ -1,0 +1,89 @@
+{
+  "origins": [
+    {
+      "title": "Giz Modo",
+      "url": "https://gizmodo.uol.com.br",
+      "BIN_ID": "6092cecc92cb9267d0ce0dee"
+    },
+    {
+      "title": "Tecnoblog",
+      "url": "https://tecnoblog.net",
+      "BIN_ID": "6092cc7c8a409667ca07659e"
+    },
+    {
+      "title": "Canal Tech",
+      "url": "https://canaltech.com.br",
+      "BIN_ID": "6092cedc92cb9267d0ce0dfb"
+    },
+    {
+      "title": "UolTecnologia",
+      "url": "https://www.uol.com.br/tilt",
+      "BIN_ID": "6092ceddd64cd16802ab541f"
+    },
+    {
+      "title": "Olhar Digital",
+      "url": "https://olhardigital.com.br",
+      "BIN_ID": "6092cedf92cb9267d0ce0dfe"
+    },
+    {
+      "title": "Leak",
+      "url": "https://www.leak.pt",
+      "BIN_ID": "6092ced6d64cd16802ab5418"
+    },
+    {
+      "title": "MaisTecnologia",
+      "url": "https://www.maistecnologia.com",
+      "BIN_ID": "6092ced78a409667ca07672e"
+    },
+    {
+      "title": "Adrenaline",
+      "url": "https://adrenaline.com.br",
+      "BIN_ID": "6092ced9d64cd16802ab541b"
+    },
+    {
+      "title": "CocaTech",
+      "url": "https://cocatech.com.br",
+      "BIN_ID": "6092ceda8a409667ca076733"
+    },
+    {
+      "title": "ExameTecnologia",
+      "url": "https://exame.com/tecnologia",
+      "BIN_ID": "6092cedb8a409667ca076735"
+    },
+    {
+      "title": "ShowMeTech",
+      "url": "https://www.showmetech.com.br",
+      "BIN_ID": "6092ced38a409667ca076729"
+    },
+    {
+      "title": "TudoEmTecnologia",
+      "url": "https://tudoemtecnologia.com",
+      "BIN_ID": "6092ced492cb9267d0ce0df4"
+    },
+    {
+      "title": "ComputerWorldPT",
+      "url": "https://www.computerworld.com.pt",
+      "BIN_ID": "6092ced1d64cd16802ab5414"
+    },
+    {
+      "title": "SapoTek",
+      "url": "https://tek.sapo.pt",
+      "BIN_ID": "6092ced28a409667ca076726"
+    },
+    {
+      "title": "4GNewsPt",
+      "url": "https://4gnews.pt",
+      "BIN_ID": "6092cec8d64cd16802ab540d"
+    },
+    {
+      "title": "TechTudo",
+      "url": "https://www.techtudo.com.br",
+      "BIN_ID": "6092cece8a409667ca076723"
+    },
+    {
+      "title": "ProfissionaisTI",
+      "url": "https://www.profissionaisti.com.br",
+      "BIN_ID": "6092cecfd64cd16802ab5412"
+    }
+  ]
+}
